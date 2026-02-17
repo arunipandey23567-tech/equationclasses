@@ -1,1 +1,1 @@
-# equationclasses
+# Equationclasses
